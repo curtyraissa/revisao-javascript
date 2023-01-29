@@ -6,7 +6,7 @@ darDesconto()
 function darDesconto() {
     let nomeProduto = prompt("qual o nome do produto?")
     let valorProduto = prompt("qual o nome do valor do produto?")
-    valorProduto = valorProduto - valorProduto*0.1
+    valorProduto -= valorProduto*0.1
     console.log(`o produto ${nomeProduto}, está R$${valorProduto}`)
 }
 
