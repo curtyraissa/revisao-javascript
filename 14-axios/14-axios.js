@@ -1,0 +1,2 @@
+// 1. Mostre uma lista com o nome dos 20 primeiros pokémons da PokéAPI: [https://pokeapi.co/](https://pokeapi.co/)
+// 2. Mostre uma lista com os alunos que são estudantes da Lufa Lufa (hufflepuff) a API do Harry Potter: [https://hp-api.onrender.com/](https://hp-api.onrender.com/)
